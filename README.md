@@ -1,5 +1,3 @@
-# hsse-hub
-Hackathon2025
 # HSSE Hub 🛡️
 
 **Building a Smarter, Safer Guyana through Digital Health, Safety, Security, and Environment Innovation**
